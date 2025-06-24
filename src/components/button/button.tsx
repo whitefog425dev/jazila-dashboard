@@ -5,7 +5,7 @@ import { cva, VariantProps } from "class-variance-authority"
 import React, { CSSProperties } from "react"
 
 /* -------------------------------------------------------------------------------------------------
- * Anatomy
+ * Anatomy : revised 2025-06-23
  * -----------------------------------------------------------------------------------------------*/
 
 export const ButtonAnatomy = defineStyleAnatomy({

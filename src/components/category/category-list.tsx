@@ -61,6 +61,8 @@ const CategoryList = ({ categories, onPagination,onOrder,onSort }: IProps) => {
     totalPages: categories?.totalPages,
   };
 
+
+  // category columns
   const columns = [
     {
       title: 'ID',
